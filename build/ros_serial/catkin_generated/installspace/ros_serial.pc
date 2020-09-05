@@ -1,0 +1,8 @@
+prefix=/home/baek/catkin_ws2/install
+
+Name: ros_serial
+Description: Description of ros_serial
+Version: 0.1.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

@@ -1,0 +1,8 @@
+prefix=/home/baek/catkin_ws2/install
+
+Name: kobuki_odom
+Description: Description of kobuki_odom
+Version: 0.1.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
